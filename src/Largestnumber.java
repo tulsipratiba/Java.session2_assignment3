@@ -3,7 +3,8 @@ import java.util.Scanner;
 
  class Largestnumber {
 
-	
+
+	@SuppressWarnings("resource")
 	public static void main(String[] args)
 	{
 		 int x, y, z;
